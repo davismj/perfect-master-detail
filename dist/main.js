@@ -1,6 +1,6 @@
-'use strict';
+"use strict";
 
-System.register(['bootstrap'], function (_export, _context) {
+System.register([], function (_export, _context) {
   "use strict";
 
   function configure(aurelia) {
@@ -11,10 +11,10 @@ System.register(['bootstrap'], function (_export, _context) {
     });
   }
 
-  _export('configure', configure);
+  _export("configure", configure);
 
   return {
-    setters: [function (_bootstrap) {}],
+    setters: [],
     execute: function () {}
   };
 });
