@@ -1,0 +1,81 @@
+MultipleErrors: C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/filter-value-converter.js:13:1: Unexpected reserved word export
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/filter-value-converter.js:13:8: Semi-colon expected
+
+MultipleErrors: C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/binding-behaviors/refresh-binding-behavior.js:1:1: Unexpected reserved word export
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/binding-behaviors/refresh-binding-behavior.js:1:8: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/binding-behaviors/refresh-binding-behavior.js:3:8: Unexpected token ;
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/binding-behaviors/refresh-binding-behavior.js:4:15: Unexpected token ;
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/binding-behaviors/refresh-binding-behavior.js:6:3: Unexpected token bind
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/binding-behaviors/refresh-binding-behavior.js:6:42: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/binding-behaviors/refresh-binding-behavior.js:23:27: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/binding-behaviors/refresh-binding-behavior.js:28:29: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/binding-behaviors/refresh-binding-behavior.js:33:1: Unexpected token End of File
+
+MultipleErrors: C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/date-time-value-converter.js:2:1: Unexpected reserved word export
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/date-time-value-converter.js:2:8: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/date-time-value-converter.js:11:1: Unexpected reserved word export
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/date-time-value-converter.js:11:8: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/date-time-value-converter.js:13:18: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/date-time-value-converter.js:22:1: Unexpected reserved word export
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/date-time-value-converter.js:22:8: Semi-colon expected
+
+MultipleErrors: C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/json-value-converter.js:1:1: Unexpected reserved word export
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/json-value-converter.js:1:8: Semi-colon expected
+
+MultipleErrors: C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:1:1: Unexpected reserved word import
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:1:8: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:1:39: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:2:1: Unexpected reserved word import
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:2:8: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:2:31: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:4:1: Unexpected token @
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:4:2: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:5:1: Unexpected reserved word export
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:5:8: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:7:3: Unexpected token @
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:7:13: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:7:18: Unexpected token ;
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:8:3: Unexpected token @
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:8:13: Unexpected token style
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:8:18: Unexpected token ;
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:9:3: Unexpected token @
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:9:57: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:18:17: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:23:10: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:27:12: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-elements/upload-custom-element.js:30:2: Unexpected token End of File
+
+MultipleErrors: C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-attributes/type-custom-attribute.js:1:1: Unexpected reserved word import
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-attributes/type-custom-attribute.js:1:8: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-attributes/type-custom-attribute.js:1:24: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-attributes/type-custom-attribute.js:2:1: Unexpected reserved word import
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-attributes/type-custom-attribute.js:2:8: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-attributes/type-custom-attribute.js:2:21: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-attributes/type-custom-attribute.js:4:1: Unexpected token @
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-attributes/type-custom-attribute.js:4:2: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-attributes/type-custom-attribute.js:5:1: Unexpected reserved word export
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/custom-attributes/type-custom-attribute.js:5:8: Semi-colon expected
+
+MultipleErrors: C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/number-value-converter.js:1:1: Unexpected reserved word export
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/number-value-converter.js:1:8: Semi-colon expected
+
+MultipleErrors: C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/view-engine-hooks/globals-view-engine-hooks.js:1:1: Unexpected reserved word export
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/view-engine-hooks/globals-view-engine-hooks.js:1:8: Semi-colon expected
+
+MultipleErrors: C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/sort-value-converter.js:1:1: Unexpected reserved word export
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/sort-value-converter.js:1:8: Semi-colon expected
+
+MultipleErrors: C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/index.js:1:1: Unexpected reserved word import
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/index.js:1:8: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/index.js:1:26: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/index.js:3:1: Unexpected reserved word export
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/index.js:3:8: Semi-colon expected
+
+MultipleErrors: C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/split-value-converter.js:1:1: Unexpected reserved word export
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/split-value-converter.js:1:8: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/split-value-converter.js:2:7: Unexpected token =
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/split-value-converter.js:2:11: Unexpected token ;
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/split-value-converter.js:3:3: Unexpected token fromView
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/split-value-converter.js:3:30: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/split-value-converter.js:11:30: Semi-colon expected
+C:/Users/Matthew James Davis/AppData/Local/.jspm/packages/npm/aurelia-plus@0.1.0-alpha/src/value-converters/split-value-converter.js:20:2: Unexpected token End of File

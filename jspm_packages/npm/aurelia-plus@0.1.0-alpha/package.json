@@ -1,0 +1,22 @@
+{
+  "name": "aurelia-plus",
+  "version": "0.1.0-alpha",
+  "description": "Aurelia Plus is a collection of common use case tools for use in Aurelia applications.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foursails/aurelia-plus.git"
+  },
+  "keywords": [
+    "aurelia"
+  ],
+  "author": "Matthew James Davis (davismj@foursails.co)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/foursails/aurelia-plus/issues"
+  },
+  "homepage": "https://github.com/foursails/aurelia-plus#readme"
+}

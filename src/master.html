@@ -1,0 +1,30 @@
+<template>
+  <style>
+  </style>
+  <table>
+    <thead><tr>
+        <th>Rank</th>
+        <th>Currency</th>
+        <th>Currency Code</th>
+        <th>Algorithm</th>
+        <th>Price (in USD)</th>
+        <th>Market Capitalization</th>
+        <th>Liquidity</th>
+        <th>Popularity</th>
+        <th>Live Chart</th>
+    </tr></thead>
+    <tbody>
+      <tr repeat.for="crypto of cryptos">
+        <td class="text-center">${crypto.rank}</td>
+        <td>${crypto.name}</td>
+        <td>${crypto.code}</td>
+        <td>${crypto.algorithm}</td>
+        <td class="text-right">${crypto.price | currency}</td>
+        <td class="text-right">${crypto.mktCap | currency}</td>
+        <td class="text-right">${crypto.liquidity | currency}</td>
+        <td class="text-right">${crypto.popularity | percentage}</td>
+        <td><a route-href="route: crypto-detail; params.bind: { code: crypto.code }">Live Chart</a></td>
+      </tr>
+    </tbody>
+  </table>
+</template>

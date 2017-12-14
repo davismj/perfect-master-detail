@@ -1,0 +1,20 @@
+{
+  "sourceRoot": "",
+  "moduleRoot": "src",
+  "comments": false,
+  "compact": false,
+  "plugins": [
+    "transform-decorators-legacy",
+  ],
+  "presets": [
+    "es2015",
+    "stage-1"
+  ],
+  "env": {
+    "production": {
+      "presets": [
+        "babili"
+      ]
+    }
+  }
+}

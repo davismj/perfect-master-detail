@@ -1,0 +1,1 @@
+module.exports = require("npm:aurelia-plus@0.1.0-alpha/dist/index.js");
