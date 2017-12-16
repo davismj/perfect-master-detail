@@ -60,14 +60,12 @@ router-view[name="side"]:empty {
 }
 router-view[name="thumb"] {
   position: absolute;
-  bottom: 5vh;
-  left: 5vw;
+  bottom: -7.5vh;
+  left: -7.5vw;
   height: 50vh;
   width: 50vw;
-  border: 2px solid black inset;
   transition: transform 250ms ease-in-out;
   transform: scale(0.5);
-  transform-origin: 0% 100%;
 }
 router-view[name="thumb"]:empty {
   transform: scale(0);
