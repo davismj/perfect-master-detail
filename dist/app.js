@@ -20,7 +20,8 @@ System.register([], function (_export, _context) {
         }
 
         AppViewModel.prototype.configureRouter = function configureRouter(config, router) {
-          config.map([{ route: 'cryptos', name: 'crypto-list', viewPorts: { main: { moduleId: 'master' }, side: { moduleId: null } } }, { route: 'cryptos/:code', name: 'crypto-detail', viewPorts: { main: { moduleId: 'master' }, side: { moduleId: 'detail' } } }, { route: '', redirect: 'cryptos' }]);
+          config.map([{ route: 'cryptos', name: 'crypto-list', viewPorts: { main: { moduleId: 'master' }, side: { moduleId: null } } }, { route: 'cryptos/:code', name: 'crypto-detail', viewPorts: { main: { moduleId: 'master' }, side: { moduleId: 'detail' }, thumb: { moduleId: 'detail' } } }, { route: '', redirect: 'cryptos' }]);
+          this.router = router;
         };
 
         return AppViewModel;

@@ -19,6 +19,8 @@ export class DetailViewModel {
   // }
 
   activate({ code }) {
-    this.crypto = { code };
+    if (code) {
+      this.crypto = { code };  
+    }
   }
 }

@@ -58,6 +58,23 @@ router-view[name="side"] {
 router-view[name="side"]:empty {
   transform: translateX(65vw);
 }
+router-view[name="thumb"] {
+  position: absolute;
+  bottom: 5vh;
+  left: 5vw;
+  height: 50vh;
+  width: 50vw;
+  border: 2px solid black inset;
+  transition: transform 250ms ease-in-out;
+  transform: scale(0.5);
+  transform-origin: 0% 100%;
+}
+router-view[name="thumb"]:empty {
+  transform: scale(0);
+}
+router-view[name="thumb"] nav {
+  display: none;
+}
 table {
   border-spacing: 0;
 }

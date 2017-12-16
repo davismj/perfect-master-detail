@@ -22,7 +22,9 @@ System.register([], function (_export, _context) {
         DetailViewModel.prototype.activate = function activate(_ref) {
           var code = _ref.code;
 
-          this.crypto = { code: code };
+          if (code) {
+            this.crypto = { code: code };
+          }
         };
 
         return DetailViewModel;
